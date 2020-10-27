@@ -1,7 +1,9 @@
+https://www.github.com/superdextor/SpiderBeGone
 <h1>Spider Be Gone</h1>
 <h4>Written by Dexter Lowery for Java</h4>
 <h2>Gameplay</h2>
 An onslought of spiders descends. Kill them all before getting overwhelmed. Earn points for every spider squished, poisoned, or eaten. Use the mouse to squish them and the keyboard to spray them. Play co-op with one person on mouse and the other on keyboard. Choose from four difficulties: Easy, Normal, Hard, & Extreme. Try to place 1st on the scoreboard. Don't play this late at night.
+<h4><a href="https://www.github.com/superdextor/SpiderBeGone/wiki">Check out heaps of hints on the Wiki.</a></h4>
 <h2>Soundtrack</h2>
 <h4>by Kevin MacLeod (https://www.incompetech.com)</h4>
 This game features a dynamic soundtrack which updates depending on gameplay.
