@@ -6,7 +6,7 @@ An onslought of spiders descends. Kill them all before getting overwhelmed. Earn
 <h4><a href="https://www.github.com/superdextor/SpiderBeGone/wiki">Check out heaps of hints on the Wiki.</a></h4>
 <h2>Install</h2>
 You can download the latest release <a href="https://github.com/superdextor/SpiderBeGone/releases">here</a>.<br/>
-This game requires Java. Available from <a href="https://www.java.com" target="_blank">https://www.java.com</a><br/>
+This game requires Java. Available from <a href="https://www.java.com" target="_blank">java.com</a><br/>
 When you're ready, double click "SpiderBeGone.jar" to drive straight into the nest.<br/>
 <img src="https://i.imgur.com/fKZBqZ6.png" alt="spg_gp_ref.png">
 <h2>Soundtrack</h2>
